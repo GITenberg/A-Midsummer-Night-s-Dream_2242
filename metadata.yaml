@@ -1,0 +1,35 @@
+_repo: A-Midsummer-Night-s-Dream_2242
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: A Midsummer Night's Dream is a romantic comedy by William Shakespeare,
+  suggested by "The Knight's Tale" from Geoffrey Chaucer's The Canterbury Tales, written
+  around 1594 to 1596. It portrays the adventures of four young Athenian lovers and
+  a group of amateur actors, their interactions with the Duke and Duchess of Athens,
+  Theseus and Hippolyta, and with the fairies who inhabit a moonlit forest. The play
+  is one of Shakespeare's most popular works for the stage and is widely performed
+  across the world. [Adapted from http://en.wikipedia.org/wiki/Midsummer_nights_dream].
+gutenberg_issued: '2000-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Comedies'
+- !lcsh 'Fairy plays'
+- !lcsh 'Courtship -- Drama'
+- !lcsh 'Athens (Greece) -- Drama'
+title: A Midsummer Night's Dream
+url: http://www.gutenberg.org/ebooks/2242
