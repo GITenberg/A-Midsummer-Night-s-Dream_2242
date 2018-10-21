@@ -1,5 +1,5 @@
 _repo: A-Midsummer-Night-s-Dream_2242
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Fairy plays'
 - !lcsh 'Courtship -- Drama'
 - !lcsh 'Athens (Greece) -- Drama'
+- GITenberg
 title: A Midsummer Night's Dream
 url: http://www.gutenberg.org/ebooks/2242
